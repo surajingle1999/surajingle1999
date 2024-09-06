@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @surajingle1999
+- 👀 I’m interested in Creative Web Development 
+- 🌱 I’m currently learning GSAP and ThreeJS
+- 💞️ I’m looking to collaborate on Design and development of beautiful websites 
+- 😄 Pronouns: He/Him
+- ⚡ Current Fav Quote: "The cure for boredom is curiousity✨ There's no cure for curiosity✨" - Dorothy Parker
